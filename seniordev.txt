@@ -1,0 +1,13 @@
+Roles & Responsibilities of a Senior Developer 
+1. Reviews code written by other developers
+2. Works closely with senior management to make informed decsions for the dev team
+3. Debugs complex issues
+4. Design, implement and manage cloud infrastructure
+5. Provision infrastructure using Infrastructure as Code (IaC) tools such as Terraform
+6. Commonly reviews:
+7. Infrastructure as Code (IaC) such as Terraform, CloudFormation or Pulumi
+8. CI/CD pipeline configurations (GitHub Actions, GitLab CI & Jenkins
+9. Dockerfiles and container configurations
+10. Kubernetes manifests and Helm charts
+11. Automation scripts (Bash, Python & PowerShell)
+12. Configuration management code (Ansible, Chef & Puppet)
